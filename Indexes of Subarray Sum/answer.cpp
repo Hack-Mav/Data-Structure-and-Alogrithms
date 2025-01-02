@@ -24,3 +24,6 @@ vector<int> subarraySum(vector<int> &arr, int target)
 
     return {-1};
 }
+
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
